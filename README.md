@@ -57,7 +57,7 @@ This project demonstrates how **data analytics** can be leveraged to improve ope
 
 ### 📬 Connect With Me  
 👤 **Amaan Ul Haq**  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380) 
 
 ---
 
