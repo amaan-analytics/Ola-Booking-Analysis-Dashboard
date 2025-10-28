@@ -36,9 +36,8 @@ View the full interactive report here 👇
 
 ---
 
-### 📷 Dashboard Snapshot  
-*(Add your dashboard image here)*  
-`![Ola Dashboard]([your-image-link-here](https://github.com/amaan-analytics/Ola-Booking-Analysis-Dashboard/blob/main/ola%20booking%20dash.jpg))`  
+### 📷 Dashboard Snapshot    
+`![Ola Dashboard]((https://github.com/amaan-analytics/Ola-Booking-Analysis-Dashboard/blob/main/ola%20booking%20dash.jpg))`  
 
 ---
 
